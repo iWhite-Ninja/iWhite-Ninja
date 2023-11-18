@@ -42,4 +42,4 @@ Let's build something amazing together! 🚀
 **Connect with me:**
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/your-username/)](https://www.linkedin.com/in/white-ninja-elqasiri-61358b285/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-yellow?style=flat-square&link=https://iwhite-ninja.github.io/Portfolio/)](https://iwhite-ninja.github.io/Portfolio/)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/whiteninja)](https://github.com/whiteninja)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/whiteninja)](https://github.com/iWhite-Ninja)
