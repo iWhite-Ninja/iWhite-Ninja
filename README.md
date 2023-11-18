@@ -1,108 +1,59 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>White Ninja Developer</title>
-    <style>
-        body {
-            font-family: 'Arial', sans-serif;
-            margin: 0;
-            padding: 0;
-            background-color: #f8f8f8;
-            color: #333;
-        }
+# White Ninja's Web Development Portfolio
 
-        header {
-            background-color: #007bff;
-            color: #fff;
-            padding: 20px;
-            text-align: center;
-        }
+## Introduction
 
-        section {
-            max-width: 800px;
-            margin: 20px auto;
-            padding: 20px;
-            background-color: #fff;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-        }
+Hello there! I am the White Ninja, a passionate web developer with a focus on front-end and back-end technologies. I have honed my skills in HTML, CSS, JavaScript, React.js, Next.js, MongoDB, PHP, and MySQL. This portfolio serves as a testament to my journey and showcases the projects that reflect my dedication to creating seamless and innovative web applications.
 
-        h2 {
-            color: #007bff;
-        }
+## Skills
 
-        ul {
-            list-style: none;
-            padding: 0;
-        }
+- **HTML**: Proficient in creating well-structured and semantic markup to build the foundation of web pages.
 
-        li {
-            margin-bottom: 10px;
-        }
+- **CSS**: Skilled in styling and layout design, ensuring a visually appealing and responsive user interface.
 
-        a {
-            color: #007bff;
-            text-decoration: none;
-        }
+- **JavaScript**: Adept at using JavaScript to enhance user interactions and create dynamic and feature-rich web applications.
 
-        a:hover {
-            text-decoration: underline;
-        }
+- **React.js**: Experienced in building modern and efficient single-page applications using the React.js library.
 
-        footer {
-            text-align: center;
-            padding: 10px;
-            background-color: #007bff;
-            color: #fff;
-            position: fixed;
-            bottom: 0;
-            width: 100%;
-        }
-    </style>
-</head>
-<body>
+- **Next.js**: Knowledgeable in leveraging Next.js to develop server-side rendered and statically generated web applications.
 
-    <header>
-        <h1>White Ninja Developer</h1>
-    </header>
+- **MongoDB**: Proficient in working with MongoDB to design and implement scalable and flexible database solutions.
 
-    <section>
-        <h2>Technical Skills</h2>
-        <ul>
-            <li>HTML & CSS</li>
-            <li>JavaScript</li>
-            <li>React.js & Next.js</li>
-            <li>MongoDB</li>
-            <li>PHP & MySQL</li>
-        </ul>
-    </section>
+- **PHP**: Skilled in server-side scripting with PHP to create dynamic and interactive web pages.
 
-    <section>
-        <h2>Projects</h2>
-        <ul>
-            <li>E-commerce Platform (React.js, MongoDB)</li>
-            <li>Personal Blog (Next.js, MongoDB)</li>
-            <li>Task Manager (React.js, PHP, MySQL)</li>
-        </ul>
-    </section>
+- **MySQL**: Experienced in designing and managing relational databases using MySQL.
 
-    <section>
-        <h2>Learning Path</h2>
-        <p>Currently exploring advanced React.js concepts, GraphQL, and optimizing database performance.</p>
-    </section>
+## Projects
 
-    <section>
-        <h2>Achievements</h2>
-        <ul>
-            <li>Certification in Full-Stack Web Development</li>
-            <li>Open Source Contributions</li>
-        </ul>
-    </section>
+### 1. **NinjaNotes App (React.js, MongoDB)**
 
-    <footer>
-        <p>Connect with me on <a href="your_social_media_link">Social Media</a></p>
-    </footer>
+A note-taking application built with React.js and integrated with MongoDB for data storage. Users can create, edit, and delete notes in real-time.
 
-</body>
-</html>
+[Link to NinjaNotes App Repository](#)
+
+### 2. **Portfolio Website (HTML, CSS, JavaScript)**
+
+Designed and developed a personal portfolio website to showcase my skills, projects, and achievements. Responsive design for optimal viewing on various devices.
+
+[Link to Portfolio Website Repository](#)
+
+### 3. **Task Manager (Next.js, MongoDB)**
+
+Built a task manager application using Next.js with server-side rendering. Integrated with MongoDB to store and manage tasks efficiently.
+
+[Link to Task Manager Repository](#)
+
+### 4. **PHP Blog (PHP, MySQL)**
+
+Created a blog platform using PHP and MySQL for server-side scripting and database management. Users can create accounts, publish posts, and interact through comments.
+
+[Link to PHP Blog Repository](#)
+
+## How to Run Projects
+
+Each project has its own repository with detailed instructions on setting up and running the application. Feel free to explore the code, provide feedback, or even contribute!
+
+## Contact
+
+I am open to collaboration and eager to take on new challenges. If you have any inquiries or would like to discuss potential projects, you can reach me at [email@example.com](mailto:email@example.com).
+
+Let's build something amazing together! 🚀
