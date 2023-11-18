@@ -39,7 +39,7 @@ Let's build something amazing together! 🚀
 
 ---
 
-**Connect with me:**
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/your-username/)](https://www.linkedin.com/in/white-ninja-elqasiri-61358b285/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-yellow?style=flat-square&link=https://iwhite-ninja.github.io/Portfolio/)](https://iwhite-ninja.github.io/Portfolio/)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/whiteninja)](https://github.com/iWhite-Ninja)
+**Connect with me 🚀:**
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&link=https://www.linkedin.com/in/white-ninja-elqasiri-61358b285/)](https://www.linkedin.com/in/white-ninja-elqasiri-61358b285/) 
+[![Portfolio](https://img.shields.io/badge/-Portfolio-yellow?style=for-the-badge&labelColor=black&link=https://iwhite-ninja.github.io/Portfolio/)](https://iwhite-ninja.github.io/Portfolio/) 
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/whiteninja)](https://github.com/iWhite-Ninja)
