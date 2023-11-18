@@ -24,11 +24,11 @@ Designed and developed a personal portfolio website to showcase my skills, proje
 [Link to Portfolio Website Repository](#)
 # White Ninja's 🥋 Web Development Portfolio
 
-[![White Ninja's GitHub Stats](https://github-readme-stats.vercel.app/api?username=whiteninja&show_icons=true&theme=radical)](https://github.com/whiteninja)
+[![White Ninja's GitHub Stats](https://github-readme-stats.vercel.app/api?username=whiteninja&show_icons=true&theme=radical)]([https://github.com/whiteninja](https://iwhite-ninja.github.io/Portfolio/))
 
 ## Top Languages 🚀
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whiteninja&layout=compact)](https://github.com/whiteninja)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whiteninja&layout=compact)]([https://github.com/whiteninja](https://iwhite-ninja.github.io/Portfolio))
 
 ## How to Run Projects 🏃‍♂️
 
