@@ -1,10 +1,10 @@
-# White Ninja's Web Development Portfolio
+# White Ninja's 🥋 Web Development Portfolio
 
-## Introduction
+## Introduction 🌟
 
 Hello there! I am the White Ninja, a passionate web developer with a focus on front-end and back-end technologies. I have honed my skills in HTML, CSS, JavaScript, React.js, Next.js, MongoDB, PHP, and MySQL. This portfolio serves as a testament to my journey and showcases the projects that reflect my dedication to creating seamless and innovative web applications.
 
-## Skills
+## Skills 🚀
 
 - **HTML**: Proficient in creating well-structured and semantic markup to build the foundation of web pages.
 
@@ -22,13 +22,7 @@ Hello there! I am the White Ninja, a passionate web developer with a focus on fr
 
 - **MySQL**: Experienced in designing and managing relational databases using MySQL.
 
-## Projects
-
-### 1. **NinjaNotes App (React.js, MongoDB)**
-
-A note-taking application built with React.js and integrated with MongoDB for data storage. Users can create, edit, and delete notes in real-time.
-
-[Link to NinjaNotes App Repository](#)
+## Projects 🛠️
 
 ### 2. **Portfolio Website (HTML, CSS, JavaScript)**
 
@@ -36,24 +30,12 @@ Designed and developed a personal portfolio website to showcase my skills, proje
 
 [Link to Portfolio Website Repository](#)
 
-### 3. **Task Manager (Next.js, MongoDB)**
-
-Built a task manager application using Next.js with server-side rendering. Integrated with MongoDB to store and manage tasks efficiently.
-
-[Link to Task Manager Repository](#)
-
-### 4. **PHP Blog (PHP, MySQL)**
-
-Created a blog platform using PHP and MySQL for server-side scripting and database management. Users can create accounts, publish posts, and interact through comments.
-
-[Link to PHP Blog Repository](#)
-
-## How to Run Projects
+## How to Run Projects 🏃‍♂️
 
 Each project has its own repository with detailed instructions on setting up and running the application. Feel free to explore the code, provide feedback, or even contribute!
 
-## Contact
+## Contact 📬
 
-I am open to collaboration and eager to take on new challenges. If you have any inquiries or would like to discuss potential projects, you can reach me at [email@example.com](mailto:email@example.com).
+I am open to collaboration and eager to take on new challenges. If you have any inquiries or would like to discuss potential projects, you can reach me at [herobrinejjej@gmail.com](mailto:herobrinejjej@gmail.com).
 
 Let's build something amazing together! 🚀
