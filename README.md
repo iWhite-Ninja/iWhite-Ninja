@@ -21,7 +21,7 @@ Hello there! I am the White Ninja, a passionate web developer with a focus on fr
 
 Designed and developed a personal portfolio website to showcase my skills, projects, and achievements. Responsive design for optimal viewing on various devices.
 
-[Link to Portfolio Website Repository]([#](https://github.com/iWhite-Ninja))
+[Link to Portfolio Website Repository]([#https://github.com/iWhite-Ninja])
 # White Ninja's 🥋 Web Development Portfolio
 
 [![White Ninja's GitHub Stats](https://github-readme-stats.vercel.app/api?username=whiteninja&show_icons=true&theme=radical)]([https://github.com/whiteninja](https://iwhite-ninja.github.io/Portfolio/))
