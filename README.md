@@ -21,11 +21,11 @@ Hello there! I am the White Ninja, a passionate web developer with a focus on fr
 
 Designed and developed a personal portfolio website to showcase my skills, projects, and achievements. Responsive design for optimal viewing on various devices.
 
-[![White Ninja's GitHub Stats](https://github-readme-stats.vercel.app/api?username=whiteninja&show_icons=true&theme=radical)](https://github.com/whiteninja/Portfolio)
+[![White Ninja's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iWhite-Ninja&show_icons=true&theme=radical)](https://github.com/whiteninja/Portfolio)
 
 ## Top Languages 🚀
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whiteninja&layout=compact)](https://github.com/whiteninja/Portfolio)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iWhite-Ninja&layout=compact)](https://github.com/whiteninja/Portfolio)
 
 ## How to Run Projects 🏃‍♂️
 
