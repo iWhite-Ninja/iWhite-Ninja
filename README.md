@@ -25,7 +25,7 @@ Designed and developed a personal portfolio website to showcase my skills, proje
 
 ## Top Languages 🚀
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iWhite-Ninja&layout=compact)](https://github.com/whiteninja/Portfolio)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stefanprodan&layout=compact)](https://github.com/whiteninja/Portfolio)
 
 ## How to Run Projects 🏃‍♂️
 
